@@ -7,8 +7,7 @@
   --font-main: 'Poppins', sans-serif;
 }
 
-/* ---------- tipografía global del componente ---------- */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
 
 /* ---------- reset mínimo ---------- */
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -18,7 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  max-height: 100vh;
   padding: 1rem;
   font-family: var(--font-main);
   color: var(--text-light);
