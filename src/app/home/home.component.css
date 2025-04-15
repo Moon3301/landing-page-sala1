@@ -53,6 +53,8 @@ h2 {
 
 /* ---------- botones ---------- */
 .device-wrapper {
+  background-color: rgb(31, 31, 31, 0.5);
+  background: #313131;
   display: flex;
   gap: 1rem;
   background: var(--bg-dark-20);
